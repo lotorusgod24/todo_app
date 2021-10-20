@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351409792212",
+    "project_id": "tasker-ea79a",
+    "storage_bucket": "tasker-ea79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351409792212:android:045840a9bd4638474ec741",
+        "android_client_info": {
+          "package_name": "com.example.tasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351409792212-bmh735e4up71cqeasr73jk6ui039itdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-_4OPIAMBk_Kg_Rp6xQfXbpi5lGr_oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351409792212-bmh735e4up71cqeasr73jk6ui039itdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
